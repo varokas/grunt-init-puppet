@@ -8,7 +8,7 @@ Install grunt-init
 Once grunt-init is installed, place this template in your `~/.grunt-init/` directory. It's recommended that you use git to clone this template into that directory, as follows:
 
 ```
-git clone git@github.com:varokas/grunt-init-puppet.git ~/.grunt-init/puppet
+git clone https://github.com/varokas/grunt-init-puppet.git ~/.grunt-init/puppet
 ```
 
 ## Usage
