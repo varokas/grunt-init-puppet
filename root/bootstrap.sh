@@ -16,7 +16,7 @@ sudo apt-get -y install gnupg
 gem install hiera-gpg
 
 echo "*************************************"
-echo "At this point, set up pgp private key
+echo "At this point, set up pgp private key"
 echo "*************************************"
 echo "gpg --import public.key"
 echo "gpg --allow-secret-key-import --import private.key"
