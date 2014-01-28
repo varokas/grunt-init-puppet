@@ -12,8 +12,8 @@ exports.template = function(grunt, init, done) {
     init.process({}, [
 
     ], function(err, props) {
-      prop.keywords = [];
-      prop.devDependencies = {
+      props.keywords = [];
+      props.devDependencies = {
 
       };
 
